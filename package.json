@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/VitorLacerdaa/novo-teste-ui#readme",
   "devDependencies": {
-    "cypress": "^9.7.0"
+    "cypress": "^9.7.0",
+    "faker": "^5.5.3"
   },
   "dependencies": {
     "@faker-js/faker": "^7.1.0"
